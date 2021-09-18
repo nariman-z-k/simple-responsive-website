@@ -1,3 +1,4 @@
 # simple-responsive-website
-وبسایت ساده واکنشگرا - ریسپانسیو
+درسته - ریسپانسیو
 html - css - Bootstrap - js
+کاملا درسته
