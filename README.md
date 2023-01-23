@@ -1,4 +1,5 @@
 # simple-responsive-website
-وبسایت ساده واکنشگرا - ریسپانسیو- دانشجویان دوره طراحی وب - مرجع 1
-html - css - Bootstrap - js
+((Web Design Student / Bootstrap /Reference 1 ))
+
+ Responsive website using bootstrap.
 
